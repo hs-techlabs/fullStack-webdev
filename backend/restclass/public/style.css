@@ -1,0 +1,29 @@
+/* *{
+    background-color: lightblue;
+} */
+
+h2{
+    color:maroon;
+    text-align: left;
+
+}
+.post{
+    background-color: rgb(230, 216, 191);
+}
+.user{
+    color:blue;
+    text-align: left;
+}
+
+.card {
+    background-color: #dba3a3;
+  border: 2px solid #999999;
+  border-radius: 5px;
+    width: 300px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+
